@@ -2,7 +2,7 @@
 
 A **Computer Science Student** with a strong passion for **Cyber Security** and complex technology architectures.
 
-<a href="linkedin.com/in/indriyatmono-supajar-63b4a0240"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/indriyatmono-supajar-63b4a0240/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ---
 
