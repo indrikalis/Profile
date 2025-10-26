@@ -15,7 +15,7 @@ My academic journey in Computer Science has fostered a deep interest in infrastr
 ## Skills & Featured Projects
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| pentesting using DVWAs          | <a href="https://[google.com](https://github.com/indrikalis/Pentesting)">Detection Lab</a>|
+| pentesting using DVWAs          | <a href="https://github.com/indrikalis/Pentesting.git">Detection Lab</a>|
 
 ### Network Defense & Monitoring
 <div>
