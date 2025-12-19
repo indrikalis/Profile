@@ -17,6 +17,7 @@ My academic journey in Computer Science has fostered a deep interest in infrastr
 |-----------------------------------------------|----------------------------|
 | Pentesting using DVWA                         | <a href="https://github.com/indrikalis/Pentesting.git">Penetration Tester</a>|
 | Environtment Installation                    | <a href="https://github.com/indrikalis/cybersecurity-homelab">Environtment Installation</a>|
+| SIEM & Log Analysis (Splunk) | <a href="https://github.com/indrikalis/ActiveDirectory-Splunk-Sysmon/tree/main">Active Directory Monitoring</a>|
 
 
 ### Penetration Test
@@ -24,6 +25,14 @@ My academic journey in Computer Science has fostered a deep interest in infrastr
   <img src="https://img.shields.io/badge/-Kali%20Linux-0F172A?&style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/-Burp%20Suite-D35400?&style=for-the-badge&logo=portswigger&logoColor=white" />
   <img src="https://img.shields.io/badge/-Hydra-6C2DC7?&style=for-the-badge&logo=hydra&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Xfreerdp-3E2723?&style=for-the-badge" />
+</div>
+
+### SIEM & Defensive Security
+<div>
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/-Sysmon-1F6DD5?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Log%20Analysis-2E7D32?&style=for-the-badge" />
 </div>
 
 ### Configuration and Environment Installation
