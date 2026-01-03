@@ -15,8 +15,6 @@ My academic journey in Computer Science has fostered a deep interest in infrastr
 ## Skills & Featured Projects
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Pentesting using DVWA                         | <a href="https://github.com/indrikalis/Pentesting.git">Penetration Tester</a>|
-| Environtment Installation                    | <a href="https://github.com/indrikalis/cybersecurity-homelab">Environtment Installation</a>|
 | SIEM & Log Analysis (Splunk) | <a href="https://github.com/indrikalis/ActiveDirectory-Splunk-Sysmon/tree/main">Active Directory Monitoring</a>|
 
 
